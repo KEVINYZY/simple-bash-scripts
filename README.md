@@ -1,4 +1,4 @@
-A collection of simple Bash scripts.
+zd A collection of simple Bash scripts.
 
 ## Getting Started
 
